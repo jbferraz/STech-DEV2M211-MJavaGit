@@ -11,4 +11,7 @@ package mjavagit;
  */
 public class vitinhoClass {
     
+public static void main(String[] args) {
+    System.out.println("Viktor Dominic");
+}
 }
