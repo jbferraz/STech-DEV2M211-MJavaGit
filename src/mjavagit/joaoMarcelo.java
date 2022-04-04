@@ -7,15 +7,16 @@ package mjavagit;
 
 /**
  *
- * @author João Vitor
+ * @author faria
  */
-public class Joaov {
+public class joaoMarcelo {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("João Vitor Barbosa");
-        System.out.println("23/01/2003");
+        // TODO code application logic here
+        System.out.println("Joao Marcelo");
     }
+    
 }
