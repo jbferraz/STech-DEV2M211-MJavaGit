@@ -1,4 +1,4 @@
-###Projeto para treino de Git da turma da Manhã de Desenvolvimento de sistemas do Senac
+## Projeto para treino de Git da turma da Manhã de Desenvolvimento de sistemas do Senac
 
 Lista de Comandos básicos Git: https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
 
